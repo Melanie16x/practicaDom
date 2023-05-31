@@ -1,0 +1,17 @@
+.btn{
+    padding: 1%;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(111, 104, 174);
+    cursor: pointer;
+}
+
+input {
+    padding: 1%;
+    border-radius: 5px;
+}
+
+select {
+    padding: 1%;
+    border-radius: 5px;
+}

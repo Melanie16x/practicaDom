@@ -1,0 +1,14 @@
+.parrafo{
+    color: #808;
+}
+.parrafo.orange{ 
+    color: #F90;
+}
+
+.btn{
+    padding: 1%;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(81, 133, 81);
+    cursor: pointer;
+}
